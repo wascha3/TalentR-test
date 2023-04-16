@@ -1,5 +1,4 @@
 # TalentR-test
-# hf3p-mydev-cypress-automation
 
 MyDEV  E2E test suite with Cypress
 
