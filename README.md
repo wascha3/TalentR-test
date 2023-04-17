@@ -1,6 +1,5 @@
 # TalentR-test
 
-MyDEV  E2E test suite with playwright
 
 
 ⚙️ Setup
