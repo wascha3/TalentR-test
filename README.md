@@ -1,6 +1,6 @@
 # TalentR-test
 
-MyDEV  E2E test suite with Cypress
+MyDEV  E2E test suite with playwright
 
 
 ⚙️ Setup
@@ -13,7 +13,7 @@ npx playwright test
 Viewing the trace: 
 npx playwright test login.spec.js --trace on 
 npx playwright show-report to show report results
-npm run cy:run:web OR cypress run --env device=web
+
 
 
 If you installed playwright zip:
